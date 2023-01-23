@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>gotrongluan Blog</title>
+        <link>https://gotrongluan.github.io/vi/</link>
+        <description>gotrongluan Blog</description>
+        <lastBuildDate>Mon, 23 Jan 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>vi</language>
+        <item>
+            <title><![CDATA[Finally, I have a blog site]]></title>
+            <link>https://gotrongluan.github.io/vi/2023/01/23/finally-i-have-a-blog-site</link>
+            <guid>/2023/01/23/finally-i-have-a-blog-site</guid>
+            <pubDate>Mon, 23 Jan 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[I chose Docusaurus to implement my blog site, it's a great tool]]></description>
+            <content:encoded><![CDATA[<p>Welcome to <strong>gotrongluan</strong>'s blog. This blog is created with <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer"><strong>Docusaurus 2</strong></a></p><p>Today is the 2nd day of the lunar new year. I decided to start my own blog. My goal is to blog to remember what I've learned, as well as a place to demonstrate my abilities.</p><p>What I learned and the knowledge from my own perspective will be written in this blog site. I promise that everything I write is from my own words and thoughts, not copied from any source.</p><p>Happy Lunar New Year 2023!</p>]]></content:encoded>
+            <category>hello</category>
+        </item>
+    </channel>
+</rss>

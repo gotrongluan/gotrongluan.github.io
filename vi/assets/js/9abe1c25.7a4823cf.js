@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgotrongluan=self.webpackChunkgotrongluan||[]).push([[211],{1845:l=>{l.exports=JSON.parse('{"label":"hello","permalink":"/vi/tags/hello","allTagsPath":"/vi/tags","count":1}')}}]);

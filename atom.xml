@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://gotrongluan.github.io/</id>
+    <title>gotrongluan Blog</title>
+    <updated>2023-01-23T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://gotrongluan.github.io/"/>
+    <subtitle>gotrongluan Blog</subtitle>
+    <icon>https://gotrongluan.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Finally, I have a blog site]]></title>
+        <id>/2023/01/23/finally-i-have-a-blog-site</id>
+        <link href="https://gotrongluan.github.io/2023/01/23/finally-i-have-a-blog-site"/>
+        <updated>2023-01-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I chose Docusaurus to implement my blog site, it's a great tool]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to <strong>gotrongluan</strong>'s blog. This blog is created with <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer"><strong>Docusaurus 2</strong></a></p><p>Today is the 2nd day of the lunar new year. I decided to start my own blog. My goal is to blog to remember what I've learned, as well as a place to demonstrate my abilities.</p><p>What I learned and the knowledge from my own perspective will be written in this blog site. I promise that everything I write is from my own words and thoughts, not copied from any source.</p><p>Happy Lunar New Year 2023!</p>]]></content>
+        <author>
+            <name>Luan Nguyen Trong</name>
+            <uri>https://github.com/gotrongluan</uri>
+        </author>
+        <category label="hello" term="hello"/>
+    </entry>
+</feed>
