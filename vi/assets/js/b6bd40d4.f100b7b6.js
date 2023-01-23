@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgotrongluan=self.webpackChunkgotrongluan||[]).push([[341],{8331:o=>{o.exports=JSON.parse('{"permalink":"/vi/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
