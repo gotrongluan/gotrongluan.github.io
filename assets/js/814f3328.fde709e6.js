@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgotrongluan=self.webpackChunkgotrongluan||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Finally, I have a blog site","permalink":"/2023/01/23/finally-i-have-a-blog-site"},{"title":"Some insights about Docusaurus","permalink":"/2023/01/23/some-thinkings-about-docusaurus"}]}')}}]);
